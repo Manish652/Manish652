@@ -1,12 +1,24 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350px">
-</div>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" alt="Manish Bhunia - Web Developer">
+</div> <br/> 
 
-# Hello World! I'm Manish 👋
+<h1 align="center">
+  🌍 <strong style="font-size: 60px;">HELLO WORLD! I'M  MANISH 👋 </strong>
+</h1>
 
-> Web Developer | MERN Stack | Python Enthusiast | Cybersecurity Explorer
+<p align="center">
+  <em>Web Developer | MERN Stack Dev | Python Enthusiast | Cybersecurity Explorer 🔐</em>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  💡 Currently building full-stack apps, automating with Python, and diving into the world of cybersecurity.<br>
+  💻 Love turning ideas into code and curiosity into projects.
+</p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Backend+Developer;MERN+Stack+Developer;Python+Enthusiast;Cybersecurity+Explorer" alt="Typing Animation">
@@ -14,21 +26,30 @@
 
 ## 💫 About Me
 
-<img align="right" height="220" width="350" alt="" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952l1azf9uw1tlx1trzwv0kdns1t7e0dwfrgsd8mb3u&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<div align="right">
+  <img height="220" width="100%"" alt="coding-gif" src="https://backiee.com/static/wallpapers/3840x2160/401721.jpg">
+</div>
 
 ```python
+## 💫 About Me
 class Developer:
     def __init__(self):
         self.name = "Manish Bhunia"
         self.role = "2nd Year Student & Developer"
         self.language_spoken = ["Bengali", "English", "Python", "JavaScript"]
-        self.current_focus = "Backend Development & Security"
+        self.current_focus = "Backend Development & Cybersecurity"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together.")
+        print("Thanks for dropping by! Let’s code something awesome together 🚀")
+
+    def current_projects(self):
+        return ["Building Scalable Backend Systems", "Learning Ethical Hacking", "Mastering Python Automation"]
 
 me = Developer()
 me.say_hi()
+print("Current Focus:", me.current_focus)
+print("Ongoing Projects:", me.current_projects())
+
 ```
 
 <br>
