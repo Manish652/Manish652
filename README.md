@@ -23,8 +23,8 @@
 
 ## 💫 About Me
 
-<div align="right">
-  <img height="220" width="100%" alt="coding-gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="coding-gif" width="100%" style="max-width: 700px; border-radius: 10px;" />
 </div>
 
 ```python
@@ -33,26 +33,23 @@ class Developer:
         self.name = "Manish Bhunia"
         self.role = "2nd Year Student & Developer"
         self.languages = ["Python", "JavaScript", "C++", "Java"]
-        self.human_languages = ["Bengali", "English", "Hindi"]
-        self.current_focus = "Backend Development & Cybersecurity"
+        self.speaks = ["Bengali", "English", "Hindi"]
+        self.focus = "Backend & Cybersecurity"
         self.interests = ["Web Security", "System Design", "AI/ML", "Open Source"]
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something innovative together 🚀")
-        
-    def current_projects(self):
-        return [
-            "Scalable Microservices Architecture",
-            "Penetration Testing Tools",
-            "Automated DevOps Pipeline",
-            "Interactive 3D Web Experience"
-        ]
+    def hello(self):
+        return "Thanks for visiting! Let's build something amazing 🚀"
 
-me = Developer()
-me.say_hi()
+    def projects(self):
+        return [
+            "Scalable Microservices",
+            "Pentesting Tools",
+            "CI/CD Automation",
+            "3D Web Interfaces"
+        ]
 ```
-<br/>
-<br/>
+ <br/> 
+
 
 
 
