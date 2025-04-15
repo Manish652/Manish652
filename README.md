@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" alt="Manish Bhunia - Web Developer">
+  <img src="https://github.com/Manish652/Manish652/blob/main/name.png?raw=true" width="100%" alt="Manish Bhunia - Web Developer">
 </div>
 
-# <div align="center">🌍 **HELLO WORLD! I'M MANISH** 👋</div>
+# <div align="center">**HELLO WORLD🌍 ! I'M MANISH^^** 👋</div>
 
 <p align="center">
   <em>Full-Stack Developer | MERN Specialist | Python Enthusiast | Cybersecurity Explorer 🔐</em>
@@ -24,7 +24,7 @@
 ## 💫 About Me
 
 <div align="right">
-  <img height="220" width="100%" alt="coding-gif" src="https://backiee.com/static/wallpapers/3840x2160/401721.jpg">
+  <img height="220" width="100%" alt="coding-gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 </div>
 
 ```python
