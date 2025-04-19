@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Manish652/Manish652/blob/main/name.png?raw=true" width="100%" alt="Manish Bhunia - Web Developer">
+  <img src="https://github.com/Manish652/Manish652/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Manish Bhunia - Web Developer">
 </div>
 
 # <div align="center">**HELLO WORLD🌍 ! I'M MANISH^^** 👋</div>
@@ -20,37 +20,42 @@
 </div>
 
 <br>
-
-## 💫 About Me
-
+<!-- 💫 About Me (HTML + CSS Version) -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="coding-gif" width="100%" style="max-width: 700px; border-radius: 10px;" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="coding-gif" style="width: 100%; max-width: 700px; border-radius: 10px;" />
 </div>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Manish Bhunia"
-        self.role = "2nd Year Student & Developer"
-        self.languages = ["Python", "JavaScript", "C++", "Java"]
-        self.speaks = ["Bengali", "English", "Hindi"]
-        self.focus = "Backend & Cybersecurity"
-        self.interests = ["Web Security", "System Design", "AI/ML", "Open Source"]
-    
-    def hello(self):
-        return "Thanks for visiting! Let's build something amazing 🚀"
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; max-width: 800px; margin: auto; color: #333;">
+  
+  <h2 style="text-align: center;">💫 About Me</h2>
 
-    def projects(self):
-        return [
-            "Scalable Microservices",
-            "Pentesting Tools",
-            "CI/CD Automation",
-            "3D Web Interfaces"
-        ]
-```
- <br/> 
+  <p style="font-size: 18px; line-height: 1.6;">
+    <strong>Hi, I’m Manish Bhunia</strong> — a 2nd-year student with a passion for <strong>Backend Development</strong> and <strong>Cybersecurity</strong>. I'm constantly learning and building cool projects that blend performance, scalability, and security.
+  </p>
+
+  <h3>🛠️ Tech Stack</h3>
+  <ul style="font-size: 16px; line-height: 1.6;">
+    <li><strong>Languages:</strong> Python, JavaScript, C++, Java</li>
+    <li><strong>Communication:</strong> Bengali, English, Hindi</li>
+    <li><strong>Focus:</strong> Backend Engineering, Web Security, System Design, AI/ML, Open Source</li>
+  </ul>
+
+  <h3>🚀 Projects I Love Building</h3>
+  <ul style="font-size: 16px; line-height: 1.6;">
+    <li>Scalable Microservices</li>
+    <li>Pentesting & Security Tools</li>
+    <li>CI/CD Automation Pipelines</li>
+    <li>3D Web Interfaces</li>
+  </ul>
+
+  <p style="font-size: 18px; text-align: center; margin-top: 30px;">
+    ⚡ Thanks for visiting! Let’s connect and build something awesome together. 🚀
+  </p>
+</div>
 
 
+<br/>
+<br/>
 
 
 ## 🚀 Skills & Technologies
